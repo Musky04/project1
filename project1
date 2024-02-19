@@ -146,6 +146,6 @@ pen.begin_fill()
 pen.circle(5)
 pen.end_fill()
 
-# End of the drawing
+
 wn.exitonclick()
 

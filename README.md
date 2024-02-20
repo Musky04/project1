@@ -21,7 +21,7 @@ The repository contains the following files:
 - Turtle Graphics Library (should be included with Python)
 
 ## Setup and Execution in Visual Studio Code (VS Code)
-To clone and run this application, you'll need and [Visual Studio Code](https://code.visualstudio.com/) installed on your computer. From your command line:
+To clone and run this application, you'll need [Github](https://github.com/Musky04/project1/blob/d0f37160ac7158d87a7716b378fe1912e8e3f0ed/project1.py) and [Visual Studio Code](https://code.visualstudio.com/) installed on your computer. From your command line:
 
 # Open Visual Studio Code
 Once the repository is open in Visual Studio Code:
